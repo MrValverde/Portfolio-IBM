@@ -1,2 +1,2 @@
-# Portfolio-IBM
-Portfolio created for the IBM full Stack certificate
+# Web Page
+This is a personal web page that admits recommendation from anyone after validation
